@@ -6,6 +6,6 @@ For this project, after running A/B tests, hypothesis tests, and EDA, the Automa
 
 **The purpose** of this model was to find ways to generate more revenue for taxi cab drivers.
 
-**The goal** of this model was to predict whether a customer is a generous tipper.
+<p align=right><b>The goal</b> of this model was to predict whether a customer is a generous tipper.</p>
 
 The data team used two different modeling architectures and compared their results. Both models performed acceptably, with a random forest architecture yielding slightly better predictions. As a result, the team would recommend beta testing with taxi drivers to gain further feedback.
